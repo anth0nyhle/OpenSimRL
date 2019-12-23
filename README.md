@@ -1,1 +1,1 @@
-# biomech_rl
+# Biomechanical Modeling using RL
