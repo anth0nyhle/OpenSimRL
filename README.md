@@ -1,1 +1,1 @@
-# Biomechanical Modeling using RL
+# Biomechanical Simulations using RL
