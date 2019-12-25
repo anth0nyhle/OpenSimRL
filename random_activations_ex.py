@@ -9,4 +9,5 @@ for i in range(200):
 
 print(observation)
 print(f'Last reward: {reward}')
-print(f'Last move: {done}')
+print(f'Last move? {done}')
+print(f'{info}')
